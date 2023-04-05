@@ -1,0 +1,7 @@
+Admin Login:
+Username: admin
+Password: admin
+
+Reporter Login:
+Username: reporter
+Password: reporter
